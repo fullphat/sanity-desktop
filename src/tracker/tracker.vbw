@@ -1,0 +1,15 @@
+Form1 = 88, 116, 996, 429, Z, 44, 58, 952, 371, C
+mBasic_i = 0, 0, 0, 0, C
+Lemon3_i = 0, 0, 0, 0, C
+mWin32_i = 0, 0, 0, 0, C
+mWin32wnd_i = 0, 0, 0, 0, C
+m4Windows = 0, 0, 0, 0, C
+TChildWindow = 0, 0, 0, 0, C
+CListView = 22, 29, 930, 342, 
+mWin32listviewctl_i = 110, 145, 1018, 458, C
+mWin32ctls_i = 0, 0, 0, 0, C
+mWin32imagelistctl_i = 110, 145, 1018, 458, C
+mWin32gfx_i = 0, 0, 0, 0, C
+TListViewItem = 88, 116, 996, 429, 
+TFile = 0, 0, 0, 0, C
+mMain = 0, 0, 0, 0, C
