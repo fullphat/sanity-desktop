@@ -1,0 +1,1 @@
+Sanity Desktop is a desktop operating environment for Windows 2000, XP, Vista, 7 and beyond.  It's modelled on the Amiga Workbench but introduces new concepts and features.
